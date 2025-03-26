@@ -79,19 +79,5 @@ npm run dev
 - `POST /api/posts/:id/like` – Like a post.
 - `POST /api/posts/:id/unlike` – Unlike a post.
 
-## **Contributing**
 
-We welcome contributions! To contribute:
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Submit a pull request for review.
-
-## **License**
-
-This project is open-source and available under the **MIT License**.
-
----
-
-🎉 **Happy Blogging with PostHive!** 🚀
 
